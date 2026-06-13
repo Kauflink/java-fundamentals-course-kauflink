@@ -235,7 +235,7 @@ public class VerificadorNotas {
 
 #### Práctica
 
-**Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/REEMPLAZAR-ID3) **¡Inicio inmediato!**
+**Práctica**: [Abrir en OnlineGDB – Estructuras de Control](https://onlinegdb.com/REEMPLAZAR-L3)
 
 **Ejercicio**: Modifica el ejemplo para que también imprima cuántas notas aprobatorias hay en total.
 
@@ -316,7 +316,7 @@ public class EntradaUsuario {
 
 #### Práctica
 
-**Práctica**: [Haz clic para practicar](https://onlinegdb.com/REEMPLAZAR-ID4) **¡No necesitas registrarte!**
+**Práctica**: [Abrir en OnlineGDB – Métodos y Scanner](https://onlinegdb.com/REEMPLAZAR-L4)
 
 **Ejercicio**: Crea un método `promedio(int a, int b, int c)` que reciba tres notas y **devuelva** su promedio. Luego, en `main`, pide las tres notas al usuario con `Scanner` y muestra el promedio en consola.
 
@@ -463,7 +463,7 @@ public class Main {
 
 #### Práctica
 
-**Proyecto final**: [Crea tu aplicación POO](https://replit.com/@yourusername/lesson5-poo-estudiante) **¡Guarda y comparte!**
+**Proyecto final**: [Abrir en OnlineGDB – POO Estudiante](https://onlinegdb.com/REEMPLAZAR-L5)
 
 **Ejercicio**: Agrega un atributo `grado` (ejemplo: `"5to de secundaria"`) a la clase `Estudiante`. Actualiza el constructor, agrega su getter y muéstralo en `mostrarInfo()`.
 
@@ -544,7 +544,7 @@ public class EjemploCorregido {
 
 #### Práctica
 
-**Práctica final**: [Abrir Replit](https://replit.com/@yourusername/lesson6-practica-final)
+**Práctica final**: [Abrir en OnlineGDB – Reto Aula](https://onlinegdb.com/REEMPLAZAR-L6)
 
 **Reto**: Crea una clase `Aula` con un array de 5 objetos `Estudiante`. Recorre el array e imprime cuántos aprobaron y cuántos desaprobaron.
 
@@ -568,10 +568,10 @@ public class EjemploCorregido {
 |---------------|-----------|---------------------|
 | 1 | Hola Mundo | [OnlineGDB](https://onlinegdb.com/FVMd5t2_e) |
 | 2 | Variables | [OnlineGDB](https://onlinegdb.com/bUI8CwLZk) |
-| 3 | Bucles y condiciones | [JDoodle](https://jdoodle.com/execute-java-online/REEMPLAZAR-ID3) |
-| 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-ID4) |
-| 5 | Programa POO | [Replit](https://replit.com/@yourusername/lesson5-poo-estudiante) |
-| 6 | Práctica final | [Replit](https://replit.com/@yourusername/lesson6-practica-final) |
+| 3 | Bucles y condiciones | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L3) |
+| 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L4) |
+| 5 | Programa POO | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L5) |
+| 6 | Práctica final | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L6) |
 
 - **Cuestionario de conocimientos**: [Prueba aquí](https://forms.gle/REEMPLAZAR-QUIZ)
 - **Comparte tu progreso**: #JavaParaPrincipiantes

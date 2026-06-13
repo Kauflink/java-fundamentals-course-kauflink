@@ -8,11 +8,7 @@ Repositorio de código fuente del curso **Fundamentos de Java para Principiantes
 
 ## Configuración
 
-No se requiere instalar ninguna herramienta. Todo el código se ejecuta en editores en línea gratuitos desde el navegador:
-
-- [Replit](https://replit.com) — Lecciones 1, 2 y 5
-- [JDoodle](https://www.jdoodle.com/execute-java-online/) — Lección 3
-- [OnlineGDB](https://www.onlinegdb.com) — Lección 4
+No se requiere instalar ninguna herramienta. Todo el código se ejecuta en línea desde el navegador con [OnlineGDB](https://www.onlinegdb.com), gratis y sin necesidad de registrarse. Cada lección incluye un enlace directo a su proyecto precargado.
 
 Para ejecutar el código localmente (opcional):
 1. Tener instalado [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/)
@@ -62,12 +58,12 @@ Notas de apoyo para el instructor con los puntos clave de cada lección y sugere
 
 | N° | Tema | Duración | Editor |
 |----|------|----------|--------|
-| 1 | ¿Qué es Java y la Programación? | 5 min | Replit |
-| 2 | Variables y Tipos de Datos | 8 min | Replit |
-| 3 | Estructuras de Control | 10 min | JDoodle |
+| 1 | ¿Qué es Java y la Programación? | 5 min | OnlineGDB |
+| 2 | Variables y Tipos de Datos | 8 min | OnlineGDB |
+| 3 | Estructuras de Control | 10 min | OnlineGDB |
 | 4 | Métodos y Entrada/Salida | 9 min | OnlineGDB |
-| 5 | Fundamentos de POO y Programa Sencillo | 15 min | Replit |
-| 6 | Mejores Prácticas y Próximos Pasos | 10 min | Replit |
+| 5 | Fundamentos de POO y Programa Sencillo | 15 min | OnlineGDB |
+| 6 | Mejores Prácticas y Próximos Pasos | 10 min | OnlineGDB |
 
 ---
 
