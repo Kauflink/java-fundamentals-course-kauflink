@@ -87,4 +87,3 @@ Período 202610
 - Jose Fernando Flores Pinchi
 - Elynor Mikela Palma De Los Santos
 - Jose Antonio Peirano Brun
-- Joseph Julius Camargo Briceño

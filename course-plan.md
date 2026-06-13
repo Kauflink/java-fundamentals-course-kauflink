@@ -605,6 +605,5 @@ NRC 11990
 - Jose Fernando Flores Pinchi
 - Elynor Mikela Palma De Los Santos
 - Jose Antonio Peirano Brun
-- Joseph Julius Camargo Briceño
 
 **Fecha de entrega**: 15/06/2026, 13:00 (UTC-5)
