@@ -69,10 +69,10 @@ Notas de apoyo para el instructor con los puntos clave de cada lección y sugere
 
 ## Elaboración
 
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202610
-1ASI0729 Desarrollo de Aplicaciones Open Source — NRC 11990
+- Universidad Peruana de Ciencias Aplicadas
+- Carrera de Ingeniería de Software
+- Período 202610
+- 1ASI0729 Desarrollo de Aplicaciones Open Source — NRC 11990
 
 **Nombre del equipo**: Kauflink
 

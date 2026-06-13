@@ -4,11 +4,11 @@
 
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: ~60 minutos
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**Repositorio de código fuente**: [https://github.com/Kauflink/java-fundamentals-course](https://github.com/Kauflink/java-fundamentals-course)
+- **Duración total**: ~60 minutos
+- **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+- **Prerrequisitos**: Ninguno
+- **Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
+- **Repositorio de código fuente**: [https://github.com/Kauflink/java-fundamentals-course](https://github.com/Kauflink/java-fundamentals-course)
 
 ---
 
@@ -577,18 +577,10 @@ public class EjemploCorregido {
 
 ## Elaboración
 
-Universidad Peruana de Ciencias Aplicadas
-
-
-Carrera de Ingeniería de Software
-
-
-Período 202610
-
-
-1ASI0729 Desarrollo de Aplicaciones Open Source
-
-NRC 11990
+- Universidad Peruana de Ciencias Aplicadas
+- Carrera de Ingeniería de Software
+- Período 202610
+- 1ASI0729 Desarrollo de Aplicaciones Open Source — NRC 11990
 
 **Nombre del equipo**: Kauflink
 
