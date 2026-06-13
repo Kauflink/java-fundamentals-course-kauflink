@@ -58,6 +58,8 @@ public class MiPrograma {
 | `public static void main` | Punto de inicio — aquí empieza todo |
 | `System.out.println(...)` | Imprime texto en la consola |
 
+> **Pausa y prueba:** pausa el video, copia el programa en el editor en línea y ejecútalo tal cual antes de continuar.
+
 #### Práctica
 
 **Empieza a programar**: [Abrir Replit – Hola Mundo](https://replit.com/@yourusername/lesson1-hola-mundo)
@@ -117,6 +119,8 @@ public class PerfilEstudiante {
     }
 }
 ```
+
+> **Pausa y prueba:** cambia el valor de `edad` por tu edad real y vuelve a ejecutar. ¿Qué línea cambió en la salida?
 
 **Errores comunes**
 - Olvidar el punto y coma `;` al final de cada línea.
@@ -194,6 +198,8 @@ while (intentos < 3) {
     intentos++;
 }
 ```
+
+> **Pausa y prueba:** antes de ejecutar el bucle `for`, intenta adivinar qué imprimirá. Luego córrelo y compara.
 
 **Antes de seguir: ¿qué es un arreglo?**
 
@@ -306,6 +312,8 @@ public class EntradaUsuario {
 }
 ```
 
+> **Pausa y prueba:** ejecuta este programa y escribe tu nombre y edad cuando el editor te lo pida. Observa cómo el programa responde con tus datos.
+
 #### Práctica
 
 **Práctica**: [Haz clic para practicar](https://onlinegdb.com/REEMPLAZAR-ID4) **¡No necesitas registrarte!**
@@ -366,6 +374,8 @@ public class Main {
 ```
 
 Aquí los atributos están "abiertos" (cualquiera los puede cambiar). En el siguiente paso los **protegeremos** con encapsulación.
+
+> **Pausa y prueba:** crea un segundo objeto `Mascota` con tus propios datos y llama a `presentarse()`. Confirma que cada objeto mantiene su propia información.
 
 **Encapsulación — Proteger los datos**
 
