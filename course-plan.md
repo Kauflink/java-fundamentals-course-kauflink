@@ -548,8 +548,6 @@ public class EjemploCorregido {
 
 **Reto**: Crea una clase `Aula` con un array de 5 objetos `Estudiante`. Recorre el array e imprime cuántos aprobaron y cuántos desaprobaron.
 
-**Comparte tu trabajo**: [Enviar creación](https://forms.gle/REEMPLAZAR-FORM)
-
 #### Conclusiones clave
 
 - Leer los mensajes de error con calma te ayuda a encontrar el problema rápido.
@@ -572,9 +570,6 @@ public class EjemploCorregido {
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L4) |
 | 5 | Programa POO | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L5) |
 | 6 | Práctica final | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L6) |
-
-- **Cuestionario de conocimientos**: [Prueba aquí](https://forms.gle/REEMPLAZAR-QUIZ)
-- **Comparte tu progreso**: #JavaParaPrincipiantes
 
 **¡Gracias por completar el curso!**
 
