@@ -607,4 +607,4 @@ NRC 11990
 - Jose Antonio Peirano Brun
 - Joseph Julius Camargo Briceño
 
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 15/06/2026, 13:00 (UTC-5)
