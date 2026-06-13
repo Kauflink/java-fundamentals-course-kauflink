@@ -320,7 +320,7 @@ public class EntradaUsuario {
 
 #### Práctica
 
-**Práctica**: [Abrir en OnlineGDB – Métodos y Scanner](https://onlinegdb.com/REEMPLAZAR-L4)
+**Práctica**: [Abrir en OnlineGDB – Métodos y Scanner](https://onlinegdb.com/PM3ajjfnm)
 
 **Ejercicio**: Crea un método `promedio(int a, int b, int c)` que reciba tres notas y **devuelva** su promedio. Luego, en `main`, pide las tres notas al usuario con `Scanner` y muestra el promedio en consola.
 
