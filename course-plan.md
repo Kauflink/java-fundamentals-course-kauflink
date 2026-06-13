@@ -4,11 +4,11 @@
 
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: ~60 minutos  
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
-**Prerrequisitos**: Ninguno  
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**📦 Repositorio de código fuente**: [https://github.com/yourusername/java-fundamentals-course-teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+**Duración total**: ~60 minutos
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+**Prerrequisitos**: Ninguno
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+**Repositorio de código fuente**: [https://github.com/yourusername/java-fundamentals-course-teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
 
 ---
 
@@ -16,31 +16,31 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 1: ¿Qué es Java y la Programación? 🚀 (5 minutos)
+### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 
 **Dificultad**: ⭐☆☆☆☆ Principiante absoluto
 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar. Escribirás tu primer programa: ¡Hola, Mundo!
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK1)
 
-#### 🎯 Objetivos
+#### Objetivos
 
 Al finalizar esta lección podrás:
 - Explicar qué es la programación y para qué sirve Java.
 - Identificar la estructura mínima de un programa Java.
 - Escribir y ejecutar tu primer programa: **¡Hola, Mundo!**
 
-#### 📖 Contenido
+#### Contenido
 
-**¿Qué es programar?**  
+**¿Qué es programar?**
 Programar es escribir instrucciones que una computadora puede entender y ejecutar. Igual que una receta de cocina le dice al cocinero qué hacer paso a paso, un programa le dice a la computadora exactamente qué hacer.
 
-**¿Qué es Java?**  
+**¿Qué es Java?**
 Java es un lenguaje de programación muy popular que se usa para crear:
-- Aplicaciones de Android 📱
-- Videojuegos 🎮
-- Sistemas bancarios 🏦
-- Páginas web del lado del servidor 🌐
+- Aplicaciones de Android
+- Videojuegos
+- Sistemas bancarios
+- Páginas web del lado del servidor
 
 **Estructura básica de un programa Java**
 
@@ -58,13 +58,13 @@ public class MiPrograma {
 | `public static void main` | Punto de inicio — aquí empieza todo |
 | `System.out.println(...)` | Imprime texto en la consola |
 
-#### 💻 Práctica
+#### Práctica
 
-👉 **Empieza a programar**: [Abrir Replit – Hola Mundo](https://replit.com/@yourusername/lesson1-hola-mundo)
+**Empieza a programar**: [Abrir Replit – Hola Mundo](https://replit.com/@yourusername/lesson1-hola-mundo)
 
 **Ejercicio**: Cambia el texto `"¡Hola, Mundo!"` por `"¡Hola, me llamo [tu nombre]!"` y ejecuta el programa.
 
-#### 🔑 Conclusiones clave
+#### Conclusiones clave
 
 - Java es uno de los lenguajes más usados del mundo.
 - Todo programa Java necesita una clase y un método `main`.
@@ -72,23 +72,23 @@ public class MiPrograma {
 
 ---
 
-### Lección 2: Variables y Tipos de Datos 📦 (8 minutos)
+### Lección 2: Variables y Tipos de Datos (8 minutos)
 
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Aprende a almacenar información en Java usando variables. Crearás un perfil de estudiante con nombre, edad y promedio.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK2)
 
-#### 🎯 Objetivos
+#### Objetivos
 
 Al finalizar esta lección podrás:
 - Declarar variables de distintos tipos en Java.
 - Distinguir entre `int`, `String`, `double` y `boolean`.
 - Crear un perfil de estudiante usando variables.
 
-#### 📖 Contenido
+#### Contenido
 
-**¿Qué es una variable?**  
+**¿Qué es una variable?**
 Una variable es como una caja con nombre donde guardas información. Puedes cambiar lo que hay dentro en cualquier momento.
 
 **Tipos de datos principales**
@@ -118,18 +118,18 @@ public class PerfilEstudiante {
 }
 ```
 
-**⚠️ Errores comunes**
+**Errores comunes**
 - Olvidar el punto y coma `;` al final de cada línea.
 - Confundir `int` con `double` al guardar decimales.
-- Escribir texto sin comillas: ~~`String nombre = Ana;`~~ ❌
+- Escribir texto sin comillas: ~~`String nombre = Ana;`~~
 
-#### 💻 Práctica
+#### Práctica
 
-👉 **Práctica**: [Clic para programar](https://replit.com/@yourusername/lesson2-variables) ⚡ **¡No es necesario registrarse!**
+**Práctica**: [Clic para programar](https://replit.com/@yourusername/lesson2-variables) **¡No es necesario registrarse!**
 
 **Ejercicio**: Crea variables con tu propio nombre, edad y promedio escolar, luego imprímelas en consola.
 
-#### 🔑 Conclusiones clave
+#### Conclusiones clave
 
 - Las variables almacenan datos que tu programa puede usar.
 - Cada variable tiene un **tipo** que define qué clase de dato guarda.
@@ -137,21 +137,21 @@ public class PerfilEstudiante {
 
 ---
 
-### Lección 3: Estructuras de Control – Decisiones y Bucles 🔀 (10 minutos)
+### Lección 3: Estructuras de Control – Decisiones y Bucles (10 minutos)
 
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
 - **Descripción**: Toma decisiones con `if-else` y repite tareas automáticamente con bucles `for` y `while`. Crearás un verificador de notas aprobatorias.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK3)
 
-#### 🎯 Objetivos
+#### Objetivos
 
 Al finalizar esta lección podrás:
 - Usar `if-else` para que tu programa tome decisiones.
 - Repetir acciones automáticamente con bucles `for` y `while`.
 - Crear un verificador de notas aprobatorias.
 
-#### 📖 Contenido
+#### Contenido
 
 **Sentencias if-else — Tomar decisiones**
 
@@ -159,9 +159,9 @@ Al finalizar esta lección podrás:
 int nota = 14;
 
 if (nota >= 11) {
-    System.out.println("¡Aprobado! 🎉");
+    System.out.println("¡Aprobado!");
 } else {
-    System.out.println("Desaprobado 😔");
+    System.out.println("Desaprobado");
 }
 ```
 
@@ -207,7 +207,7 @@ int[] notas = {8, 15, 11, 6, 18};
 - `notas[0]` es la primera nota (`8`), `notas[1]` la segunda (`15`), y así.
 - `notas.length` te dice cuántos elementos hay (aquí, `5`).
 
-¿Por qué lo vemos aquí? Porque combinar un **arreglo** con un **bucle `for`** te deja revisar muchas notas con muy poco código, como verás ahora. 👇
+¿Por qué lo vemos aquí? Porque combinar un **arreglo** con un **bucle `for`** te deja revisar muchas notas con muy poco código, como verás ahora.
 
 **Ejemplo completo: Verificador de notas**
 
@@ -218,22 +218,22 @@ public class VerificadorNotas {
 
         for (int i = 0; i < notas.length; i++) {
             if (notas[i] >= 11) {
-                System.out.println("Nota " + notas[i] + " → Aprobado ✅");
+                System.out.println("Nota " + notas[i] + " → Aprobado");
             } else {
-                System.out.println("Nota " + notas[i] + " → Desaprobado ❌");
+                System.out.println("Nota " + notas[i] + " → Desaprobado");
             }
         }
     }
 }
 ```
 
-#### 💻 Práctica
+#### Práctica
 
-👉 **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/REEMPLAZAR-ID3) ⚡ **¡Inicio inmediato!**
+**Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/REEMPLAZAR-ID3) **¡Inicio inmediato!**
 
 **Ejercicio**: Modifica el ejemplo para que también imprima cuántas notas aprobatorias hay en total.
 
-#### 🔑 Conclusiones clave
+#### Conclusiones clave
 
 - `if-else` permite que el programa tome caminos distintos según una condición.
 - `for` es ideal cuando sabes cuántas veces repetir algo.
@@ -241,23 +241,23 @@ public class VerificadorNotas {
 
 ---
 
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO 🧩 (12 minutos)
+### Lección 4: Métodos y Entrada/Salida (9 minutos)
 
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
-- **Descripción**: Crea bloques de código reutilizables llamados métodos, recibe datos del usuario con `Scanner`, y da tus primeros pasos en la programación orientada a objetos con clases y objetos.
+- **Descripción**: Crea bloques de código reutilizables llamados métodos y recibe datos del usuario con `Scanner`. Estos dos conceptos preparan el terreno para entrar a la POO en la siguiente lección.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK4)
 
-#### 🎯 Objetivos
+#### Objetivos
 
 Al finalizar esta lección podrás:
 - Crear métodos para reutilizar bloques de código.
+- Escribir métodos que reciben parámetros y devuelven un valor.
 - Leer datos del usuario con `Scanner`.
-- Crear tu primera clase Java con atributos y un método.
 
-#### 📖 Contenido
+#### Contenido
 
-**¿Qué es un método?**  
+**¿Qué es un método?**
 Un método es un bloque de código con nombre que puedes usar cuantas veces quieras. Evita repetir el mismo código.
 
 ```java
@@ -306,7 +306,44 @@ public class EntradaUsuario {
 }
 ```
 
-**Primera clase Java**
+#### Práctica
+
+**Práctica**: [Haz clic para practicar](https://onlinegdb.com/REEMPLAZAR-ID4) **¡No necesitas registrarte!**
+
+**Ejercicio**: Crea un método `promedio(int a, int b, int c)` que reciba tres notas y **devuelva** su promedio. Luego, en `main`, pide las tres notas al usuario con `Scanner` y muestra el promedio en consola.
+
+#### Conclusiones clave
+
+- Los métodos hacen el código reutilizable y más organizado.
+- Un método puede **recibir parámetros** y **devolver** un resultado con `return`.
+- `Scanner` permite que el usuario ingrese datos mientras el programa corre.
+
+---
+
+### Lección 5: Fundamentos de POO y Programa Sencillo (15 minutos)
+
+**Dificultad**: ⭐⭐⭐⭐☆ Intermedio
+
+- **Descripción**: Construye clases completas con atributos privados, constructores y métodos. Al final crearás un pequeño sistema de registro de estudiantes usando POO.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK5)
+
+#### Objetivos
+
+Al finalizar esta lección podrás:
+- Entender la diferencia entre una clase (molde) y un objeto (instancia).
+- Crear clases con atributos privados usando encapsulación.
+- Escribir constructores, getters y setters.
+- Construir un pequeño sistema de registro de estudiantes con POO.
+
+#### Contenido
+
+**¿Qué es la Programación Orientada a Objetos?**
+La POO organiza el código en torno a **objetos** que tienen:
+- **Atributos** → características (nombre, edad, promedio)
+- **Métodos** → acciones (estudiar, mostrarInfo)
+
+**Tu primera clase — empecemos simple**
+Una **clase** es el molde; un **objeto** es algo real hecho con ese molde. Mira este ejemplo mínimo antes de pasar al caso completo:
 
 ```java
 class Mascota {
@@ -320,7 +357,7 @@ class Mascota {
 
 public class Main {
     public static void main(String[] args) {
-        Mascota miMascota = new Mascota();
+        Mascota miMascota = new Mascota();   // new crea el objeto
         miMascota.nombre = "Firulais";
         miMascota.especie = "perro";
         miMascota.presentarse();
@@ -328,40 +365,7 @@ public class Main {
 }
 ```
 
-#### 💻 Práctica
-
-👉 **Práctica**: [Haz clic para practicar](https://onlinegdb.com/REEMPLAZAR-ID4) ⚡ **¡No necesitas registrarte!**
-
-**Ejercicio**: Crea una clase `Libro` con atributos `titulo` y `autor`, y un método `mostrarInfo()`. Luego crea dos objetos de tipo `Libro` en `main`.
-
-#### 🔑 Conclusiones clave
-
-- Los métodos hacen el código reutilizable y más organizado.
-- `Scanner` permite que el usuario ingrese datos mientras el programa corre.
-- Una clase define la estructura de un objeto; `new` crea el objeto real.
-
----
-
-### Lección 5: Fundamentos de POO y Programa Sencillo 🏗️ (15 minutos)
-
-**Dificultad**: ⭐⭐⭐⭐☆ Intermedio
-
-- **Descripción**: Construye clases completas con atributos privados, constructores y métodos. Al final crearás un pequeño sistema de registro de estudiantes usando POO.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK5)
-
-#### 🎯 Objetivos
-
-Al finalizar esta lección podrás:
-- Crear clases con atributos privados usando encapsulación.
-- Escribir constructores, getters y setters.
-- Construir un pequeño sistema de registro de estudiantes con POO.
-
-#### 📖 Contenido
-
-**¿Qué es la Programación Orientada a Objetos?**  
-La POO organiza el código en torno a **objetos** que tienen:
-- **Atributos** → características (nombre, edad, promedio)
-- **Métodos** → acciones (estudiar, mostrarInfo)
+Aquí los atributos están "abiertos" (cualquiera los puede cambiar). En el siguiente paso los **protegeremos** con encapsulación.
 
 **Encapsulación — Proteger los datos**
 
@@ -397,9 +401,9 @@ public class Estudiante {
         System.out.println("Edad    : " + edad + " años");
         System.out.println("Promedio: " + promedio);
         if (promedio >= 11) {
-            System.out.println("Estado  : Aprobado ✅");
+            System.out.println("Estado  : Aprobado");
         } else {
-            System.out.println("Estado  : Desaprobado ❌");
+            System.out.println("Estado  : Desaprobado");
         }
     }
 }
@@ -447,13 +451,13 @@ public class Main {
    edad   = 15               edad   = 14
 ```
 
-#### 💻 Práctica
+#### Práctica
 
-👉 **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@yourusername/lesson5-poo-estudiante) ⚡ **¡Guarda y comparte!**
+**Proyecto final**: [Crea tu aplicación POO](https://replit.com/@yourusername/lesson5-poo-estudiante) **¡Guarda y comparte!**
 
 **Ejercicio**: Agrega un atributo `grado` (ejemplo: `"5to de secundaria"`) a la clase `Estudiante`. Actualiza el constructor, agrega su getter y muéstralo en `mostrarInfo()`.
 
-#### 🔑 Conclusiones clave
+#### Conclusiones clave
 
 - La **encapsulación** protege los datos usando `private` + getters/setters.
 - El **constructor** inicializa los atributos al crear un objeto.
@@ -461,25 +465,25 @@ public class Main {
 
 ---
 
-### Lección 6: Mejores Prácticas y Próximos Pasos 🎓 (10 minutos)
+### Lección 6: Mejores Prácticas y Próximos Pasos (10 minutos)
 
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Aprende a depurar errores comunes, escribe código limpio y descubre qué aprender después de este curso.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK6)
 
-#### 🎯 Objetivos
+#### Objetivos
 
 Al finalizar esta lección podrás:
 - Identificar y corregir los errores más comunes en Java.
 - Escribir código limpio y fácil de leer.
 - Saber qué aprender después de este curso.
 
-#### 📖 Contenido
+#### Contenido
 
 **Errores comunes y cómo evitarlos**
 
-| ❌ Error | ✅ Solución |
+| Error | Solución |
 |---------|-----------|
 | Olvidar el `;` al final | Revisa cada línea — todas terminan en `;` |
 | Usar `=` en vez de `==` | `=` asigna, `==` compara: `if (nota == 20)` |
@@ -490,7 +494,7 @@ Al finalizar esta lección podrás:
 **Ejemplo: depurar un error clásico**
 
 ```java
-// ❌ Código con error
+// Código con error
 public class EjemploError {
     public static void main(String[] args) {
         int nota = 15
@@ -500,7 +504,7 @@ public class EjemploError {
     }
 }
 
-// ✅ Código corregido
+// Código corregido
 public class EjemploCorregido {
     public static void main(String[] args) {
         int nota = 15;
@@ -518,25 +522,25 @@ public class EjemploCorregido {
 - Usa indentación consistente (4 espacios o 1 tab).
 
 **¿Qué aprender después?**
-- 🔷 **Herencia y Polimorfismo** — extender clases para reutilizar código.
-- 🔷 **Colecciones** — `ArrayList` y `HashMap` para manejar listas de objetos.
-- 🔷 **Manejo de errores** — `try-catch` para que tu programa no se rompa.
-- 🔷 **Proyectos reales** — crea una agenda de contactos o un juego de adivinanzas.
+- **Herencia y Polimorfismo** — extender clases para reutilizar código.
+- **Colecciones** — `ArrayList` y `HashMap` para manejar listas de objetos.
+- **Manejo de errores** — `try-catch` para que tu programa no se rompa.
+- **Proyectos reales** — crea una agenda de contactos o un juego de adivinanzas.
 
 **Recursos gratuitos para seguir aprendiendo:**
 - [Oracle Java Tutorial (oficial)](https://docs.oracle.com/javase/tutorial/)
 - [W3Schools Java](https://www.w3schools.com/java/)
 - [CS50 de Harvard (gratis en edX)](https://cs50.harvard.edu/)
 
-#### 💻 Práctica
+#### Práctica
 
-👉 **Práctica final**: [Abrir Replit](https://replit.com/@yourusername/lesson6-practica-final)
+**Práctica final**: [Abrir Replit](https://replit.com/@yourusername/lesson6-practica-final)
 
 **Reto**: Crea una clase `Aula` con un array de 5 objetos `Estudiante`. Recorre el array e imprime cuántos aprobaron y cuántos desaprobaron.
 
-**Comparte tu trabajo**: [Enviar creación](https://forms.gle/REEMPLAZAR-FORM) 🎉
+**Comparte tu trabajo**: [Enviar creación](https://forms.gle/REEMPLAZAR-FORM)
 
-#### 🔑 Conclusiones clave
+#### Conclusiones clave
 
 - Leer los mensajes de error con calma te ayuda a encontrar el problema rápido.
 - El código limpio es tan importante como el código que funciona.
@@ -555,36 +559,36 @@ public class EjemploCorregido {
 | 1 | Hola Mundo | [Replit](https://replit.com/@yourusername/lesson1-hola-mundo) |
 | 2 | Variables | [Replit](https://replit.com/@yourusername/lesson2-variables) |
 | 3 | Bucles y condiciones | [JDoodle](https://jdoodle.com/execute-java-online/REEMPLAZAR-ID3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-ID4) |
+| 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-ID4) |
 | 5 | Programa POO | [Replit](https://replit.com/@yourusername/lesson5-poo-estudiante) |
 | 6 | Práctica final | [Replit](https://replit.com/@yourusername/lesson6-practica-final) |
 
 - **Cuestionario de conocimientos**: [Prueba aquí](https://forms.gle/REEMPLAZAR-QUIZ)
 - **Comparte tu progreso**: #JavaParaPrincipiantes
 
-**¡Gracias por completar el curso! 🎉**
+**¡Gracias por completar el curso! **
 
 ---
 
-## 🏫 Elaboración
+## Elaboración
 
-Universidad Peruana de Ciencias Aplicadas  
-
-
-Carrera de Ingeniería de Software  
+Universidad Peruana de Ciencias Aplicadas
 
 
-Período 202610  
+Carrera de Ingeniería de Software
+
+
+Período 202610
 
 
 1ASI0729 Desarrollo de Aplicaciones Open Source 11990
 
-**Nombre del equipo**: Kauflink 
+**Nombre del equipo**: Kauflink
 
 
 **Líder del equipo**: Joseph Julius Camargo Briceño
 
-**Integrantes del equipo**: 
+**Integrantes del equipo**:
 - Lionel Abraham Chavez Carrasco
 - Jose Fernando Flores Pinchi
 - Elynor Mikela Palma De Los Santos
