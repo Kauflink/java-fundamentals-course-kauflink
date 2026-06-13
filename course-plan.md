@@ -195,6 +195,20 @@ while (intentos < 3) {
 }
 ```
 
+**Antes de seguir: ¿qué es un arreglo?**
+
+Hasta ahora cada variable guarda **un solo valor**. Un **arreglo** (`array`) es como una fila de cajitas numeradas que guarda **varios valores del mismo tipo** bajo un mismo nombre.
+
+```java
+int[] notas = {8, 15, 11, 6, 18};
+//   posición:  0   1   2  3   4
+```
+
+- `notas[0]` es la primera nota (`8`), `notas[1]` la segunda (`15`), y así.
+- `notas.length` te dice cuántos elementos hay (aquí, `5`).
+
+¿Por qué lo vemos aquí? Porque combinar un **arreglo** con un **bucle `for`** te deja revisar muchas notas con muy poco código, como verás ahora. 👇
+
 **Ejemplo completo: Verificador de notas**
 
 ```java
