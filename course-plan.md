@@ -26,6 +26,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 #### Objetivos
 
 Al finalizar esta lección podrás:
+
 - Explicar qué es la programación y para qué sirve Java.
 - Identificar la estructura mínima de un programa Java.
 - Escribir y ejecutar tu primer programa: **¡Hola, Mundo!**
@@ -39,6 +40,7 @@ Programar es escribir instrucciones que una computadora puede entender y ejecuta
 **¿Qué es Java?**
 
 Java es un lenguaje de programación muy popular que se usa para crear:
+
 - Aplicaciones de Android
 - Videojuegos
 - Sistemas bancarios
@@ -54,11 +56,11 @@ public class MiPrograma {
 }
 ```
 
-| Parte | ¿Qué hace? |
-|-------|-----------|
-| `public class MiPrograma` | Define el nombre del programa |
+| Parte                     | ¿Qué hace?                          |
+| ------------------------- | ----------------------------------- |
+| `public class MiPrograma` | Define el nombre del programa       |
 | `public static void main` | Punto de inicio — aquí empieza todo |
-| `System.out.println(...)` | Imprime texto en la consola |
+| `System.out.println(...)` | Imprime texto en la consola         |
 
 > **Pausa y prueba:** pausa el video, copia el programa en el editor en línea y ejecútalo tal cual antes de continuar.
 
@@ -86,6 +88,7 @@ public class MiPrograma {
 #### Objetivos
 
 Al finalizar esta lección podrás:
+
 - Declarar variables de distintos tipos en Java.
 - Distinguir entre `int`, `String`, `double` y `boolean`.
 - Crear un perfil de estudiante usando variables.
@@ -98,12 +101,12 @@ Una variable es como una caja con nombre donde guardas información. Puedes camb
 
 **Tipos de datos principales**
 
-| Tipo | ¿Para qué sirve? | Ejemplo |
-|------|-----------------|---------|
-| `int` | Números enteros | `int edad = 15;` |
-| `double` | Números con decimales | `double promedio = 14.5;` |
-| `String` | Texto | `String nombre = "Ana";` |
-| `boolean` | Verdadero o falso | `boolean aprobado = true;` |
+| Tipo      | ¿Para qué sirve?      | Ejemplo                    |
+| --------- | --------------------- | -------------------------- |
+| `int`     | Números enteros       | `int edad = 15;`           |
+| `double`  | Números con decimales | `double promedio = 14.5;`  |
+| `String`  | Texto                 | `String nombre = "Ana";`   |
+| `boolean` | Verdadero o falso     | `boolean aprobado = true;` |
 
 **Declarar e imprimir variables**
 
@@ -126,6 +129,7 @@ public class PerfilEstudiante {
 > **Pausa y prueba:** cambia el valor de `edad` por tu edad real y vuelve a ejecutar. ¿Qué línea cambió en la salida?
 
 **Errores comunes**
+
 - Olvidar el punto y coma `;` al final de cada línea.
 - Confundir `int` con `double` al guardar decimales.
 - Escribir texto sin comillas: ~~`String nombre = Ana;`~~
@@ -154,6 +158,7 @@ public class PerfilEstudiante {
 #### Objetivos
 
 Al finalizar esta lección podrás:
+
 - Usar `if-else` para que tu programa tome decisiones.
 - Repetir acciones automáticamente con bucles `for` y `while`.
 - Crear un verificador de notas aprobatorias.
@@ -174,14 +179,14 @@ if (nota >= 11) {
 
 **Operadores de comparación**
 
-| Operador | Significado |
-|----------|-------------|
-| `==` | igual a |
-| `!=` | diferente de |
-| `>` | mayor que |
-| `<` | menor que |
-| `>=` | mayor o igual que |
-| `<=` | menor o igual que |
+| Operador | Significado       |
+| -------- | ----------------- |
+| `==`     | igual a           |
+| `!=`     | diferente de      |
+| `>`      | mayor que         |
+| `<`      | menor que         |
+| `>=`     | mayor o igual que |
+| `<=`     | menor o igual que |
 
 **Bucle for — Repetir un número fijo de veces**
 
@@ -238,7 +243,7 @@ public class VerificadorNotas {
 
 #### Práctica
 
-**Práctica**: [Abrir en OnlineGDB – Estructuras de Control](https://onlinegdb.com/REEMPLAZAR-L3)
+**Práctica**: [Abrir en OnlineGDB – Estructuras de Control](https://www.onlinegdb.com/bJLVuI1pIy)
 
 **Ejercicio**: Modifica el ejemplo para que también imprima cuántas notas aprobatorias hay en total.
 
@@ -260,6 +265,7 @@ public class VerificadorNotas {
 #### Objetivos
 
 Al finalizar esta lección podrás:
+
 - Crear métodos para reutilizar bloques de código.
 - Escribir métodos que reciben parámetros y devuelven un valor.
 - Leer datos del usuario con `Scanner`.
@@ -342,6 +348,7 @@ public class EntradaUsuario {
 #### Objetivos
 
 Al finalizar esta lección podrás:
+
 - Entender la diferencia entre una clase (molde) y un objeto (instancia).
 - Crear clases con atributos privados usando encapsulación.
 - Escribir constructores, getters y setters.
@@ -352,6 +359,7 @@ Al finalizar esta lección podrás:
 **¿Qué es la Programación Orientada a Objetos?**
 
 La POO organiza el código en torno a **objetos** que tienen:
+
 - **Atributos** → características (nombre, edad, promedio)
 - **Métodos** → acciones (estudiar, mostrarInfo)
 
@@ -491,6 +499,7 @@ public class Main {
 #### Objetivos
 
 Al finalizar esta lección podrás:
+
 - Identificar y corregir los errores más comunes en Java.
 - Escribir código limpio y fácil de leer.
 - Saber qué aprender después de este curso.
@@ -499,13 +508,13 @@ Al finalizar esta lección podrás:
 
 **Errores comunes y cómo evitarlos**
 
-| Error | Solución |
-|---------|-----------|
-| Olvidar el `;` al final | Revisa cada línea — todas terminan en `;` |
-| Usar `=` en vez de `==` | `=` asigna, `==` compara: `if (nota == 20)` |
-| Confundir mayúsculas | Java distingue `Nombre` de `nombre` |
-| Índice fuera de rango | Verifica que el índice no supere `array.length - 1` |
-| Dividir entre cero | Valida el divisor antes de dividir |
+| Error                   | Solución                                            |
+| ----------------------- | --------------------------------------------------- |
+| Olvidar el `;` al final | Revisa cada línea — todas terminan en `;`           |
+| Usar `=` en vez de `==` | `=` asigna, `==` compara: `if (nota == 20)`         |
+| Confundir mayúsculas    | Java distingue `Nombre` de `nombre`                 |
+| Índice fuera de rango   | Verifica que el índice no supere `array.length - 1` |
+| Dividir entre cero      | Valida el divisor antes de dividir                  |
 
 **Ejemplo: depurar un error clásico**
 
@@ -532,18 +541,21 @@ public class EjemploCorregido {
 ```
 
 **Buenas prácticas de escritura**
+
 - Usa nombres descriptivos: `promedio` en vez de `x`.
 - Un bloque de código = una responsabilidad.
 - Comenta las partes que no son obvias.
 - Usa indentación consistente (4 espacios o 1 tab).
 
 **¿Qué aprender después?**
+
 - **Herencia y Polimorfismo** — extender clases para reutilizar código.
 - **Colecciones** — `ArrayList` y `HashMap` para manejar listas de objetos.
 - **Manejo de errores** — `try-catch` para que tu programa no se rompa.
 - **Proyectos reales** — crea una agenda de contactos o un juego de adivinanzas.
 
 **Recursos gratuitos para seguir aprendiendo:**
+
 - [Oracle Java Tutorial (oficial)](https://docs.oracle.com/javase/tutorial/)
 - [W3Schools Java](https://www.w3schools.com/java/)
 - [CS50 de Harvard (gratis en edX)](https://cs50.harvard.edu/)
@@ -568,14 +580,14 @@ public class EjemploCorregido {
 
 ### Todas las actividades prácticas
 
-| N° de lección | Actividad | Empezar a programar |
-|---------------|-----------|---------------------|
-| 1 | Hola Mundo | [OnlineGDB](https://onlinegdb.com/FVMd5t2_e) |
-| 2 | Variables | [OnlineGDB](https://onlinegdb.com/bUI8CwLZk) |
-| 3 | Bucles y condiciones | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L3) |
-| 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L4) |
-| 5 | Programa POO | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L5) |
-| 6 | Práctica final | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L6) |
+| N° de lección | Actividad            | Empezar a programar                              |
+| ------------- | -------------------- | ------------------------------------------------ |
+| 1             | Hola Mundo           | [OnlineGDB](https://onlinegdb.com/FVMd5t2_e)     |
+| 2             | Variables            | [OnlineGDB](https://onlinegdb.com/bUI8CwLZk)     |
+| 3             | Bucles y condiciones | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L3) |
+| 4             | Métodos y Scanner    | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L4) |
+| 5             | Programa POO         | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L5) |
+| 6             | Práctica final       | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-L6) |
 
 **¡Gracias por completar el curso!**
 
@@ -590,10 +602,10 @@ public class EjemploCorregido {
 
 **Nombre del equipo**: Kauflink
 
-
 **Líder del equipo**: Joseph Julius Camargo Briceño
 
 **Integrantes del equipo**:
+
 - Lionel Abraham Chavez Carrasco
 - Jose Fernando Flores Pinchi
 - Elynor Mikela Palma De Los Santos
