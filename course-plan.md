@@ -494,7 +494,7 @@ public class Main {
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Aprende a depurar errores comunes, escribe código limpio y descubre qué aprender después de este curso.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK6)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=8b5uV_CFdfU)
 
 #### Objetivos
 
