@@ -21,7 +21,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Dificultad**: ⭐☆☆☆☆ Principiante absoluto
 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar. Escribirás tu primer programa: ¡Hola, Mundo!
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK1)
+- **Enlace**: [Ver la lección](https://youtu.be/J0F-6ZQK5qs)
 
 #### Objetivos
 
@@ -83,7 +83,7 @@ public class MiPrograma {
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Aprende a almacenar información en Java usando variables. Crearás un perfil de estudiante con nombre, edad y promedio.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK2)
+- **Enlace**: [Ver la lección](https://youtu.be/CZ0moo8lCl0)
 
 #### Objetivos
 
@@ -153,7 +153,7 @@ public class PerfilEstudiante {
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
 - **Descripción**: Toma decisiones con `if-else` y repite tareas automáticamente con bucles `for` y `while`. Crearás un verificador de notas aprobatorias.
-- **Enlace**: [Ver la lección](https://youtu.be/JOQ36uZp_ag)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=JOQ36uZp_ag)
 
 #### Objetivos
 
@@ -260,7 +260,7 @@ public class VerificadorNotas {
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
 - **Descripción**: Crea bloques de código reutilizables llamados métodos y recibe datos del usuario con `Scanner`. Estos dos conceptos preparan el terreno para entrar a la POO en la siguiente lección.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK4)
+- **Enlace**: [Ver la lección](https://youtu.be/L52nIJ6yN40?si=QcZ4Q5vd77tFK38T)
 
 #### Objetivos
 
