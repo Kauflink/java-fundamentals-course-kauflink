@@ -477,7 +477,7 @@ public class Main {
 
 #### Práctica
 
-**Proyecto final**: [Abrir en OnlineGDB – POO Estudiante](https://onlinegdb.com/REEMPLAZAR-L5)
+**Proyecto final**: [Abrir en OnlineGDB – POO Estudiante](https://onlinegdb.com/BcTy_OVGZ)
 
 **Ejercicio**: Agrega un atributo `grado` (ejemplo: `"5to de secundaria"`) a la clase `Estudiante`. Actualiza el constructor, agrega su getter y muéstralo en `mostrarInfo()`.
 
@@ -562,7 +562,7 @@ public class EjemploCorregido {
 
 #### Práctica
 
-**Práctica final**: [Abrir en OnlineGDB – Reto Aula](https://onlinegdb.com/IY4rBZQzZC](https://onlinegdb.com/BcTy_OVGZ)
+**Práctica final**: [Abrir en OnlineGDB – Reto Aula](https://onlinegdb.com/BcTy_OVGZ)
 
 **Reto**: Crea una clase `Aula` con un array de 5 objetos `Estudiante`. Recorre el array e imprime cuántos aprobaron y cuántos desaprobaron.
 
